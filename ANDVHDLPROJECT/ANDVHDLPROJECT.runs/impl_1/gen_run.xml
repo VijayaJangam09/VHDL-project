@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50fgga484-1" LaunchTime="1787745462">
+  <File Type="REPORTS-TCL" Name="andtest_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="andtest_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="andtest.mmi"/>
+  <File Type="OPT-DRC" Name="andtest_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="andtest.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="andtest_route_status.pb"/>
+  <File Type="BG-BGN" Name="andtest.bgn"/>
+  <File Type="PLACE-UTIL" Name="andtest_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="andtest_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="andtest_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="andtest.bin"/>
+  <File Type="PLACE-CTRL" Name="andtest_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="andtest_power_routed.rpx"/>
+  <File Type="BITSTR-MSK" Name="andtest.msk"/>
+  <File Type="BITSTR-RBT" Name="andtest.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="andtest_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="andtest_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="andtest_route_status.rpt"/>
+  <File Type="PA-TCL" Name="andtest.tcl"/>
+  <File Type="ROUTE-PWR" Name="andtest_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="andtest_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="andtest_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="andtest_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="andtest.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="andtest_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="andtest_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="andtest.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="andtest_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="andtest_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="andtest.vdi"/>
+  <File Type="ROUTE-CLK" Name="andtest_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="andtest_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="andtest_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="andtest_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="andtest_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="andtest_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="andtest_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="andtest_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="andtest_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="andtest.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="andtest_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="andtest.nky"/>
+  <File Type="BITSTR-BMM" Name="andtest_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="andtest.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="andtest_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DCP" Name="andtest_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="andtest_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="andtest_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="andtest_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="andtest_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="andtest_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="andtest_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="andtest_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="andtest_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="andtest_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="andtest_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="andtest.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="andtest_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="andtest_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="andtest.rcfi"/>
+  <File Type="CFI_FILE" Name="andtest.cfi"/>
+  <File Type="RNPI_FILE" Name="andtest.rnpi"/>
+  <File Type="NPI_FILE" Name="andtest.npi"/>
+  <File Type="RBD_FILE" Name="andtest.rbd"/>
+  <File Type="ROUTE-RQS" Name="andtest_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="andtest_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="MMI-FILE" Name="andtest.mmi"/>
+  <File Type="BIF-FILE" Name="andtest.bif"/>
+  <File Type="BOOT-BIF-FILE" Name="andtest_boot.bif"/>
+  <File Type="PL-BIF-FILE" Name="andtest_pld.bif"/>
+  <File Type="LTX-FILE" Name="andtest.ltx"/>
+  <File Type="BOOT-LTX-FILE" Name="andtest_boot.ltx"/>
+  <File Type="PL-LTX-FILE" Name="andtest_pld.ltx"/>
+  <File Type="RCDO-FILE" Name="andtest.rcdo"/>
+  <File Type="MARKER-RCDO-FILE" Name="andtest_markers.rcdo"/>
+  <File Type="PL-RCDO-FILE" Name="andtest_pld.rcdo"/>
+  <File Type="MARKER-RNPI-FILE" Name="andtest_markers.rnpi"/>
+  <File Type="BOOT_RNPI_FILE" Name="andtest_boot.rnpi"/>
+  <File Type="PL_RNPI_FILE" Name="andtest_pld.rnpi"/>
+  <File Type="BOOT_MARKER_RNPI_FILE" Name="andtest_boot_markers.rnpi"/>
+  <File Type="PL_MARKER_RNPI_FILE" Name="andtest_pld_markers.rnpi"/>
+  <File Type="PL_MASK_RNPI_FILE" Name="andtest_pld_mask.rnpi"/>
+  <File Type="PL_SHUTDOWN_RNPI_FILE" Name="andtest_pld_shutdown.rnpi"/>
+  <File Type="PL_UNMASK_RNPI_FILE" Name="andtest_pld_unmask.rnpi"/>
+  <File Type="PL-CLEAR-RCDO-FILE" Name="andtest_pld_clear.rcdo"/>
+  <File Type="PL_MARKER_RCDO_FILE" Name="andtest_pld_markers.rcdo"/>
+  <File Type="PL_MASK_RCDO_FILE" Name="andtest_pld_mask.rcdo"/>
+  <File Type="PL_UNMASK_MARKER_RCDO_FILE" Name="andtest_pld_unmask_markers.rcdo"/>
+  <File Type="PL_UNMASK_RCDO_FILE" Name="andtest_pld_unmask.rcdo"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/andtest.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="andtest"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/andt.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/andtest.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2025"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

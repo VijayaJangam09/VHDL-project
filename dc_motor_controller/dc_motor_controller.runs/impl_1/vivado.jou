@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Oct 13 10:42:33 2025
+# Process ID         : 24835
+# Current directory  : /home/sahil-shah/Vivado Pojects/Spartan7/dc_motor_controller/dc_motor_controller.runs/impl_1
+# Command line       : vivado -log dc_motor_pwm.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source dc_motor_pwm.tcl -notrace
+# Log file           : /home/sahil-shah/Vivado Pojects/Spartan7/dc_motor_controller/dc_motor_controller.runs/impl_1/dc_motor_pwm.vdi
+# Journal file       : /home/sahil-shah/Vivado Pojects/Spartan7/dc_motor_controller/dc_motor_controller.runs/impl_1/vivado.jou
+# Running On         : sahil-shah-ASUS-EXPERTCENTER-P500MV
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13420H
+# CPU Frequency      : 707.785 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 7914 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 12209 MB
+# Available Virtual  : 6404 MB
+#-----------------------------------------------------------
+source dc_motor_pwm.tcl -notrace

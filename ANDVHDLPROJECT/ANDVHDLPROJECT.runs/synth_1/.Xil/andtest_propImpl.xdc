@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:/home/sahil-shah/ANDVHDLPROJECT/ANDVHDLPROJECT.srcs/constrs_1/new/andt.xdc rfile:../../../ANDVHDLPROJECT.srcs/constrs_1/new/andt.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R7 [get_ports S0]
+set_property src_info {type:XDC file:1 line:9 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN A14 [get_ports S1]
+set_property src_info {type:XDC file:1 line:16 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN B15 [get_ports RNOUT]
